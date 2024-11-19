@@ -5,7 +5,7 @@
 To run locally, install `python` and run
 
 ```sh
-python -m SimpleHTTPServer
+python -m http.server 8000
 ```
 
 And then visit `http://localhost:8000` with your browser.
